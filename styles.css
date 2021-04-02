@@ -7,3 +7,7 @@ h1 {
     display: flex;
     justify-content: center;
 }
+
+body {
+    background-color: rgb(97, 205, 224);
+}
