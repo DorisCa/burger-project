@@ -3,9 +3,11 @@
     box-sizing: border-box;
 }
 
-h1 {
+.center{
     display: flex;
     justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
 body {
